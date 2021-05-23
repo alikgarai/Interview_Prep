@@ -2,8 +2,12 @@
 
 - [Behavioral Interview](https://docs.google.com/document/d/1aSGvLKxoMWJM6XIAzrXlYpGdGP9bpPcpvwk2tGdvMBY/edit)
 - [Object Oriented Design](https://docs.google.com/document/d/1kz4H3UwABmkqaow9WMRSx_9v9szQBRL3ZzeQReKKCOM/edit)
+  - [OO Design](https://www.oodesign.com/design-principles.html)
+  - [Design Parking lot - Grokking the Object Oriented Design](https://www.educative.io/courses/grokking-the-object-oriented-design-interview/gxM3gRxmr8Z)
 - [System Design](https://docs.google.com/document/d/18EC4-GDHht64pmuMhAgs7lnNsMmMt8cqz8t01Lxbw_4/edit)
-- [Top 10 System Design Interview Questions](https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444)
+  - [Top 10 System Design Interview Questions](https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444)
+  - [High Scalability - Google architecture](http://highscalability.com/google-architecture)
+  - [High Scalability - Flikr architecture](http://highscalability.com/flickr-architecture)
 - [S.O.L.I.D Principles](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
 - [CAP Theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem)
 - [CAP Theorem](https://ravindraelicherla.medium.com/cap-theorem-simplified-28499a67eab4)
@@ -47,9 +51,6 @@
 
 - [HiredInTech Training Camp for Coding Interviews](https://www.hiredintech.com/classrooms/system-design/lesson/60)
 - [Project Euler - Archived problems](https://projecteuler.net/archives)
-- [High Scalability - Google architecture](http://highscalability.com/google-architecture)
-- [High Scalability - Flikr architecture](http://highscalability.com/flickr-architecture)
 - [Database Guide](https://database.guide/category/dbms/nosql/)
-- [Design Parking lot - Grokking the Object Oriented Design](https://www.educative.io/courses/grokking-the-object-oriented-design-interview/gxM3gRxmr8Z)
 - [The Modern Javascript Tutorial](https://javascript.info/)
 - [Github Learning Lab](https://lab.github.com/githubtraining/introduction-to-github)
